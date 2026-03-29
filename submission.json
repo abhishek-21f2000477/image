@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, cinematic image of a pair of human lungs constructed entirely from a dense modern city skyline, skyscrapers forming the lung structure. The buildings gradually dissolve upward into thick black smog. Inside the smog, faint human silhouettes are fading and disappearing into the air. The lower part of the lungs is clearer, while the upper part is suffocating and polluted. Dramatic lighting, high contrast, moody atmosphere, muted color palette with grays and toxic blacks. No text, no labels. Hyper-detailed, emotionally heavy, symbolic visual storytelling. Negative prompt: text, labels, infographic, chart, graph, numbers, axes, watermark",
+  "model": "Midjourney v6.1",
+  "dataset_name": "Air Pollution - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution silently kills millions each year by turning the air we breathe into a slow internal poison."
+}
